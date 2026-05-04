@@ -3,7 +3,6 @@
 > AI-powered cryptocurrency trading platform with automated signal generation, strategy execution, and real-time market analysis.
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Desktop-lightgrey)](https://finance-eagle-ai.com)
 [![Rating](https://img.shields.io/badge/User%20Rating-4.7%20%E2%98%85-yellow)](https://finance-eagle-ai.com)
 
